@@ -19,13 +19,13 @@ div.konten{
 }
 
 div.kepala{
-    background: #f85252;
+    background: #0000ff;
     padding: 10px 22px;
     height: 60px;
 }
 
 div.kepala h2.judul{
-    color: #0000ff;
+    color: #fff;
     font-weight: normal;
     line-height: 40px;
     display: inline-block;
