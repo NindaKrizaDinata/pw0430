@@ -8,7 +8,6 @@
 body{
     background: #c0c0c0;
 }
-
 div.konten{
     background: #ffffff;
     width: 350px;
@@ -34,7 +33,7 @@ div.kepala h2.judul{
 div.lock{
     background-image: url("lock.png");
     background-position: center;
-    background-size: 100px;
+    background-size: 50px;
     display: inline-block;
     width: 25px;
     height: 25px;
