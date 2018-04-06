@@ -34,7 +34,7 @@ div.kepala h2.judul{
 div.lock{
     background-image: url("lock.png");
     background-position: center;
-    background-size: 38px;
+    background-size: 100px;
     display: inline-block;
     width: 25px;
     height: 25px;
