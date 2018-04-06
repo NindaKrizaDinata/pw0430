@@ -7,6 +7,7 @@
 
 body{
     background: #c0c0c0;
+    background-size: 1000px;
 }
 div.konten{
     background: #ffffff;
@@ -33,7 +34,7 @@ div.kepala h2.judul{
 div.lock{
     background-image: url("lock.png");
     background-position: center;
-    background-size: 50px;
+    background-size: 100px;
     display: inline-block;
     width: 25px;
     height: 25px;
@@ -68,7 +69,7 @@ div.artikel div.grup input[type="password"]{
     padding: 0 10px;
     background: #eeeeee;
     border:none;
-    color: #808080;
+    color: rgb(180, 180, 180);
 }
 
 div.artikel div.grup input[type="submit"]{
